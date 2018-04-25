@@ -1,1 +1,1 @@
-parseInt('nonsense!', 10)
+parseFloat('80.123999') 

@@ -1,5 +1,7 @@
 
 
-function add() {
-  1000 + 669
+function add(a,b) {
+  a + b
 }
+
+add(10,50)
